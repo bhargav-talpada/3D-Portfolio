@@ -54,10 +54,10 @@ import {
       title: "Backend Developer",
       icon: backend,
     },
-    {
-      title: "Core-Java Developer",
-      icon: creator,
-    },
+    // {
+    //   title: "Core-Java Developer",
+    //   icon: creator,
+    // },
   ];
   
   const technologies = [
@@ -170,27 +170,27 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-      name: "Sara Lee",
+        "Climbing to the top demands strength, whether it is to the top of Mount Everest or to the top of your career.",
+      name: "APJ Abdul Kalam",
       designation: "CFO",
       company: "Acme Co",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
+      image: "https://www.frontlist.in/storage/uploads/2019/08/apj.png",
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
-      name: "Chris Brown",
+        "Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.",
+      name: "Albert Einstein",
       designation: "COO",
       company: "DEF Corp",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
+      image: "https://gallerypng.com/wp-content/uploads/2024/08/Albert-Einstein-png-hd-image-750x739.png",
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
+        "Talk to yourself once in a day, otherwise you may miss meeting an intelligent person in this world.",
+      name: "Swami Vivekananda ",
       designation: "CTO",
       company: "456 Enterprises",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnQlQShy76O049GX0C8Aul10CL8JbUhU0Hfg&s",
     },
   ];
   

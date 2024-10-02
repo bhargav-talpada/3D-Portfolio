@@ -36,7 +36,7 @@ const About = () => {
         creating dynamic, user-friendly web applications. I have a strong foundation in JavaScript and expertise in frameworks like React, NodeJS. I am quick learner and collaborate closely with clients to create efficient, scalable and user-friendly solution that solve real-life problems. Let's work together to bring your ideas to life!
       </motion.p>
 
-      <div className='mt-20 flex flex-wrap gap-10'>
+      <div className='mt-20 flex flex-wrap gap-14'>
         {
           services.map((service, index) => (
             <ServiceCard key={service.title} index={index} {...service} />
