@@ -29,6 +29,9 @@ import tesla from "./company/tesla.png";
 import swiggy from "./swiggy.png";
 import youtube from "./youtube.png";
 import netflix from "./netflix.png";
+import portfolio from "./portfolio.png";
+import jsprojects from "./js-projects.png";
+import htmlcssprojects from "./html-css-projects.png";
 
 export {
   logo,
@@ -59,4 +62,7 @@ export {
   swiggy,
   youtube,
   netflix,
+  portfolio,
+  jsprojects,
+  htmlcssprojects,
 };

@@ -22,6 +22,9 @@ import {
     swiggy,
     youtube,
     netflix,
+    portfolio,
+    jsprojects,
+    htmlcssprojects,
     threejs,
     github
   } from "../assets";
@@ -30,6 +33,14 @@ import {
     {
       id: "about",
       title: "About",
+    },
+    {
+      id: "experience",
+      title: "Experience",
+    },
+    {
+      id: "tech",
+      title: "Tech",
     },
     {
       id: "work",
@@ -257,6 +268,57 @@ import {
       ],
       image: netflix,
       source_code_link: "https://github.com/bhargav-talpada/My-Netflix.git",
+    },
+    {
+      name: "HTML-CSS-Portfolio",
+      description:
+        "I created a movie streaming plateform similar to Netflix. The application leverages the TMDB API to pull live data. Additionally, i implemented Firebase Authentication for user registration and login.",
+      tags: [
+        {
+          name: "HTML",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "CSS",
+          color: "green-text-gradient",
+        },
+        {
+          name: "JavaScript",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: portfolio,
+      source_code_link: "https://github.com/bhargav-talpada/My-Portfolio.git",
+    },
+    {
+      name: "JavaScript-Projects",
+      description:
+        "I created a movie streaming plateform similar to Netflix. The application leverages the TMDB API to pull live data. Additionally, i implemented Firebase Authentication for user registration and login.",
+      tags: [
+        {
+          name: "JavaScript",
+          color: "blue-text-gradient",
+        },
+      ],
+      image: jsprojects,
+      source_code_link: "https://github.com/bhargav-talpada/JavaScript-Projects.git",
+    },
+    {
+      name: "HTML-CSS-Projects",
+      description:
+        "I created a movie streaming plateform similar to Netflix. The application leverages the TMDB API to pull live data. Additionally, i implemented Firebase Authentication for user registration and login.",
+      tags: [
+        {
+          name: "HTML",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "CSS",
+          color: "green-text-gradient",
+        },
+      ],
+      image: htmlcssprojects,
+      source_code_link: "https://github.com/bhargav-talpada/HTML-CSS-Project.git",
     },
   ];
   
