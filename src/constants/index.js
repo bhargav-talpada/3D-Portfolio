@@ -265,6 +265,10 @@ import {
           name: "tailwind",
           color: "pink-text-gradient",
         },
+        {
+          name: "firebase",
+          color: "orange-text-gradient",
+        },
       ],
       image: netflix,
       source_code_link: "https://github.com/bhargav-talpada/My-Netflix.git",
