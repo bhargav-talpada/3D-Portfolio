@@ -276,7 +276,7 @@ import {
     {
       name: "HTML-CSS-Portfolio",
       description:
-        "I created a movie streaming plateform similar to Netflix. The application leverages the TMDB API to pull live data. Additionally, i implemented Firebase Authentication for user registration and login.",
+        "I developed fully responsive my personal portfolio website using html, css, javascript. In this website i add details about my education, skills, contact, etc.",
       tags: [
         {
           name: "HTML",
@@ -297,7 +297,7 @@ import {
     {
       name: "JavaScript-Projects",
       description:
-        "I created a movie streaming plateform similar to Netflix. The application leverages the TMDB API to pull live data. Additionally, i implemented Firebase Authentication for user registration and login.",
+        "I developed some basic projects using javascript. In this website i build To-Do list, Notes app, Backgorung Changer and many more.",
       tags: [
         {
           name: "JavaScript",
@@ -310,7 +310,7 @@ import {
     {
       name: "HTML-CSS-Projects",
       description:
-        "I created a movie streaming plateform similar to Netflix. The application leverages the TMDB API to pull live data. Additionally, i implemented Firebase Authentication for user registration and login.",
+        "I developed some clone website projects like Swiggy UI, Netflix Login Page, Tesla Page, Ice-Cream Website, Amazon Clone, etc. using HTML, CSS.",
       tags: [
         {
           name: "HTML",
