@@ -128,13 +128,15 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
+      title: "Junior Web Developer (React.js Developer)",
       // company_name: "Starbucks",
       icon: reactjs,
       iconBg: "#383E56",
       // date: "March 2020 - April 2021",
       points: [
-        "I'm a junior web developer"
+        "Passionate about developing dynamic and responsive web applications using React.js.",
+        "Eager to collaborate with teams and clients to bring innovative ideas to life.",
+        "Committed to continuous learning and improving technical skills in web development."
       ],
     },
     // {
@@ -143,32 +145,6 @@ import {
     //   icon: tesla,
     //   iconBg: "#E6DEDD",
     //   date: "Jan 2021 - Feb 2022",
-    //   points: [
-    //     "Developing and maintaining web applications using React.js and other related technologies.",
-    //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-    //     "Implementing responsive design and ensuring cross-browser compatibility.",
-    //     "Participating in code reviews and providing constructive feedback to other developers.",
-    //   ],
-    // },
-    // {
-    //   title: "Web Developer",
-    //   company_name: "Shopify",
-    //   icon: shopify,
-    //   iconBg: "#383E56",
-    //   date: "Jan 2022 - Jan 2023",
-    //   points: [
-    //     "Developing and maintaining web applications using React.js and other related technologies.",
-    //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-    //     "Implementing responsive design and ensuring cross-browser compatibility.",
-    //     "Participating in code reviews and providing constructive feedback to other developers.",
-    //   ],
-    // },
-    // {
-    //   title: "Full stack Developer",
-    //   company_name: "Meta",
-    //   icon: meta,
-    //   iconBg: "#E6DEDD",
-    //   date: "Jan 2023 - Present",
     //   points: [
     //     "Developing and maintaining web applications using React.js and other related technologies.",
     //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -209,7 +185,7 @@ import {
     {
       name: "Swiggy Clone",
       description:
-        "I developed a food ordering web application similar to Swiggy. The app integrates Swiggy's live API to fetch real-time data and providing a seamless user experience similar to the original plateform.",
+        "Developed a food ordering web application similar to Swiggy using ReactJS and Tailwind CSS. Integrated Swiggy’s live API to fetch real-time data, ensuring a seamless and user-friendly experience comparable to the original platform. Focused on efficient data handling and responsive design to enhance user engagement.",
       tags: [
         {
           name: "react",
@@ -230,7 +206,7 @@ import {
     {
       name: "Youtube Clone",
       description:
-        "I built a video streaming plateform modeled after YouTube. The app uses the YouTube API to dynamically fetch real-time data. The project showcase my ability to work with RESTful APIs and manage UI.",
+        "Built a video streaming platform modeled after YouTube using ReactJS and Tailwind CSS. Integrated the YouTube API to dynamically fetch real-time video data, demonstrating proficiency in working with RESTful APIs. Developed and managed the user interface to ensure a seamless user experience.",
       tags: [
         {
           name: "react",
@@ -251,7 +227,7 @@ import {
     {
       name: "Netflix Clone",
       description:
-        "I created a movie streaming plateform similar to Netflix. The application leverages the TMDB API to pull live data. Additionally, i implemented Firebase Authentication for user registration and login.",
+        "Developed a movie streaming platform using ReactJS, leveraging the TMDB API to fetch and display live movie data. Implemented Firebase Authentication for secure user registration and login functionality. Focused on creating a user-friendly interface and seamless user experience similar to popular streaming platforms.",
       tags: [
         {
           name: "react",
@@ -276,7 +252,7 @@ import {
     {
       name: "HTML-CSS-Portfolio",
       description:
-        "I developed fully responsive my personal portfolio website using html, css, javascript. In this website i add details about my education, skills, contact, etc.",
+        "Developed a fully responsive personal portfolio website using HTML, CSS, and JavaScript. Implemented modern design principles for seamless user experience across various devices. Integrated sections showcasing education, technical skills, projects, and contact information. Utilized JavaScript for interactive elements, enhancing user engagement and functionality.",
       tags: [
         {
           name: "HTML",
@@ -297,7 +273,7 @@ import {
     {
       name: "JavaScript-Projects",
       description:
-        "I developed some basic projects using javascript. In this website i build To-Do list, Notes app, Backgorung Changer and many more.",
+        "I developed some basic projects using javascript. In this website i build To-Do list, Notes app, Backgorung Changer and many more. Implemented responsive design principles to ensure optimal user experience across devices. Focused on UI/UX best practices to enhance user engagement and improve overall site usability.",
       tags: [
         {
           name: "JavaScript",
@@ -310,7 +286,7 @@ import {
     {
       name: "HTML-CSS-Projects",
       description:
-        "I developed some clone website projects like Swiggy UI, Netflix Login Page, Tesla Page, Ice-Cream Website, Amazon Clone, etc. using HTML, CSS.",
+        "Developed various clone websites, including Swiggy UI, Netflix Login Page, Tesla Page, Ice Cream Website, and Amazon Clone, utilizing HTML, CSS, and JavaScript. Implemented responsive design principles to ensure optimal user experience across devices. Focused on UI/UX best practices to enhance user engagement and improve overall site usability.",
       tags: [
         {
           name: "HTML",

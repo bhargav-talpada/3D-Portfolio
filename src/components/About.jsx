@@ -32,8 +32,7 @@ const About = () => {
       </motion.div>
 
       <motion.p variants={fadeIn("", "", 0.1, 1)} className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]' >
-        I'm a junior web developer, I am enthusiastic about utilizing my technical skills and passion for
-        creating dynamic, user-friendly web applications. I have a strong foundation in JavaScript and expertise in frameworks like React, NodeJS. I am quick learner and collaborate closely with clients to create efficient, scalable and user-friendly solution that solve real-life problems. Let's work together to bring your ideas to life!
+        Junior Web Developer with a strong foundation in JavaScript and expertise in frameworks like React and Node.js. Proficient in building dynamic, user-friendly web applications. Demonstrated ability to collaborate with clients to deliver scalable and efficient solutions. Quick learner with a passion for solving real-life problems through innovative web development.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-7'>
