@@ -1,8 +1,17 @@
-# React + Vite
+# 🌟 3D Portfolio Website
+ - A visually stunning, interactive 3D Portfolio built with modern web technologies to showcase projects, skills, and experience in a creative and dynamic way.
+ - This project leverages React.js, Three.js, and Tailwind CSS to deliver an immersive user experience.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌟 Features
+- 🎨 Stunning Design: A sleek and modern UI enhanced with 3D graphics.
+- 🖼️ Interactive Animations: Built using Three.js to add engaging 3D elements.
+- 📱 Fully Responsive: Perfectly optimized for all screen sizes and devices.
+- 🔗 Easy Navigation: Smooth transitions and clear sections for seamless browsing.
+- 🚀 Performance Optimized: Quick load times and lag-free animations.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠️ Tech Stack
+- Frontend:
+-     💻 React.js
+-     🎥 Three.js
+-     🎨 Tailwind CSS
+  
